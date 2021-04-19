@@ -1,7 +1,7 @@
 #!/bin/bash
-# HeritechPhishing  v1.0 is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
+# Mphisher  is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
 # Coded by: @thelinuxchoice (https://github.com/thelinuxchoice/shellphish)
-# Upgraded by: @Heritech (https://github.com/whiteeagle0/blackeye)
+# Upgraded by: @Heritech (https://github.com/heritech/Mphisher)
 
 
 trap 'printf "\n";stop;exit 1' 2
