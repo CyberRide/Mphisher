@@ -1,5 +1,5 @@
 # Mphisher
-## Author: https://github.com/heritech
+## Author: https://github.com/CyberRide
 ## Facebook Page: https://web.facebook.com/Kali-for-beginner-103378478559957
 ### Don't copy this code without give me the credits, heritech! 
 
@@ -11,7 +11,7 @@ Usage of Mphisher for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/heritech/Mphisher
+git clone https://github.com//CyberRide/Mphisher
 cd Mphisher
 bash Mphisher.sh Or ./Mphisher
 ```
